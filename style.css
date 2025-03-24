@@ -1,7 +1,17 @@
 h1 {
     background-color: #FFA725;
+    color: #C1D8C3;
 }
 
 ol {
+    background-color: #6A9C89;
+    color: #C1D8C3;
+}
+
+a {
+    color: #C1D8C3;
+}
+
+body {
     background-color: #FFF5E4;
 }
